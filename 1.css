@@ -76,7 +76,7 @@ body {
 
 .banner {
 	height: 960px;
-	background: url("../week2/banner.png") 50% 50% / cover no-repeat;
+	background: url("../week2/week2/banner.png") 50% 50% / cover no-repeat;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
